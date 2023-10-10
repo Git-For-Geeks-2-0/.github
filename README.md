@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/90423812/195241228-23e70dec-a9d8-4dd6-bd84-a1b21eae2cb5.png)
+![Frame 2 (2)](https://github.com/Git-For-Geeks-2-0/.github/assets/113467810/e20c6aac-6dc1-4be8-9709-d805b14b750f)
 
 ## Hi there 👋
 
-## Welcome to Git For Geeks 2022
+## Welcome to Git For Geeks 2023
 
 ## Event details :
 
