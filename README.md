@@ -1,7 +1,5 @@
 ![Frame 2 (2)](https://github.com/Git-For-Geeks-2-0/.github/assets/113467810/e20c6aac-6dc1-4be8-9709-d805b14b750f)
 
-## Hi there 👋
-
 ## Welcome to Git For Geeks 2023
 
 ## Event details :
